@@ -1,4 +1,4 @@
-package com.java.designpatterns.Builder;
+package com.java.designpatterns.builder.fluent;
 
 class Person {
 
