@@ -39,7 +39,7 @@
         "url": "https://github.com/react-in-action/letters-social/issues"
     },
     "engines": {
-        "node": "8.9.3",
+        "node": "14.x",
         "npm": "5.5.1"
     },
     "jest": {
