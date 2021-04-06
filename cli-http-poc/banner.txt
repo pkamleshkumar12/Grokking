@@ -1,0 +1,2 @@
+__DESC__ v__VERSION__
+Copyright (c) 2017 __COMPANY__

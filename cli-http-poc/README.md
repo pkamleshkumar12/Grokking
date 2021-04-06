@@ -44,3 +44,6 @@
 - SOAP
   - https://docs.python-zeep.org/en/master/
 - REST
+
+
+### cli -system=SL -interface=getCustomer -version=v1 useCase=uc01 
